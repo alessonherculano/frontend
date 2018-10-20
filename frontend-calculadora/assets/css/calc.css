@@ -1,0 +1,265 @@
+form{
+background:white;
+width: 350px;
+padding: 2rem 0 2rem 0 ;
+align-items: center;
+
+
+}
+
+input{
+    width: 80%;
+    height: 30px;
+    border: 1px solid #cccccc;
+    text-indent: 1rem;
+    margin: 5px 1px 5px 5px;
+    
+
+
+}
+
+button{
+    border-radius: ;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+
+}
+
+.ac{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+.mm{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+.dv{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+.mt{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+.soma{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+.dm{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+.p{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem ;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+
+.barra{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+.um{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+.dois{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+
+}
+.tres{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+
+.quatro{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+.cinco{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+.seis{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+.sete{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+
+.oito{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+.nove{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+.zero{
+    width: 41%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;
+    background: blue;
+    color: white;
+    margin: 2px 0px 0px 0px;
+
+}
+.v{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem ;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+.igual{
+    width: 20%;
+    height: 35px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem ;
+    background: blue;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+
+

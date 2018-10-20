@@ -1,0 +1,23 @@
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.row{
+    display: inline-block;
+    width: 100%;
+}
+
+.col-1{float: left; width: 8%;}
+.col-2{float: left; width: 8%;}
+.col-3{float: left; width: 8%;}
+.col-4{float: left; width: 33.3%;}
+.col-5{float: left; width: 8%;}
+.col-6{float: left; width: 8%;}
+.col-6{float: left; width: 50%;}
+.col-7{float: left; width: 8%;}
+.col-8{float: left; width: 8%;}
+.col-9{float: left; width: 8%;}
+.col-10{float: left; width: 8%;}
+.col-11{float: left; width: 8%;}
+.col-12{float: left; width: 100%;}

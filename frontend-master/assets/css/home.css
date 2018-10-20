@@ -1,0 +1,21 @@
+.table{
+    width: 100%;
+    background: white; 
+    border-collapse:collapse; 
+}
+
+th {
+    padding: .6rem 0;
+    font-family: Arial;
+    font-size: .75rem;
+    color: #aaaaaa;
+    text-transform: uppercase;
+    }
+
+tbody tr:nth-child(odd){
+    background: #f2f2f2;
+}
+
+td{
+    padding: .7rem;
+}
